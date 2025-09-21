@@ -97,6 +97,7 @@ Its primary focus is **usability, accessibility, and lightweight design**, makin
 
 📸 **Screenshots**:  
 - Screenshot 1: Chat interface in English
+  <img width="1919" height="776" alt="Image" src="https://github.com/user-attachments/assets/a18ad4a5-9eca-4434-99d4-09d0380669cd" />
 - Screenshot 2: Chat interface in Hindi
    
 ## Conclusion  
