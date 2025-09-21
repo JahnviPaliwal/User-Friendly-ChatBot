@@ -99,6 +99,7 @@ Its primary focus is **usability, accessibility, and lightweight design**, makin
 - Screenshot 1: Chat interface in English
   <img width="1919" height="776" alt="Image" src="https://github.com/user-attachments/assets/a18ad4a5-9eca-4434-99d4-09d0380669cd" />
 - Screenshot 2: Chat interface in Hindi
+  <img width="1262" height="389" alt="Image" src="https://github.com/user-attachments/assets/fb55d107-76b1-42e3-b105-6cf226584026" />
    
 ## Conclusion  
 The **DigiBuddy chatbot prototype** is a lightweight, cost-effective, and accessible solution for answering basic queries.  
